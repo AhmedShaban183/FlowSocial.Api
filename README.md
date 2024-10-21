@@ -65,7 +65,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/FlowSocial-API.git
+git clone (https://github.com/AhmedShaban183/FlowSocial.Api.git)
 Navigate to the project directory:
 
 bash
