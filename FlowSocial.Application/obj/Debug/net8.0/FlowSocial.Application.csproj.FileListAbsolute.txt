@@ -1,0 +1,15 @@
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\obj\Debug\net8.0\FlowSocial.Application.csproj.AssemblyReference.cache
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\obj\Debug\net8.0\FlowSocial.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\obj\Debug\net8.0\FlowSocial.Application.AssemblyInfoInputs.cache
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\obj\Debug\net8.0\FlowSocial.Application.AssemblyInfo.cs
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\obj\Debug\net8.0\FlowSocial.Application.csproj.CoreCompileInputs.cache
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\bin\Debug\net8.0\FlowSocial.Application.deps.json
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\bin\Debug\net8.0\FlowSocial.Application.dll
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\bin\Debug\net8.0\FlowSocial.Application.pdb
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\bin\Debug\net8.0\FlowSocial.Domain.dll
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\bin\Debug\net8.0\FlowSocial.Domain.pdb
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\obj\Debug\net8.0\FlowSoci.C03A1BC3.Up2Date
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\obj\Debug\net8.0\FlowSocial.Application.dll
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\obj\Debug\net8.0\refint\FlowSocial.Application.dll
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\obj\Debug\net8.0\FlowSocial.Application.pdb
+D:\web .net\projects\FlowSocialAPI\FlowSocial.Application\obj\Debug\net8.0\ref\FlowSocial.Application.dll

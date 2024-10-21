@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\web .net\\projects\\FlowSocialAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A85BB-ACE9-4541-A0CF-EDF78C4C62B9}|FlowSocial.Application\\FlowSocial.Application.csproj|d:\\web .net\\projects\\flowsocialapi\\flowsocial.application\\services\\implement\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A85BB-ACE9-4541-A0CF-EDF78C4C62B9}|FlowSocial.Application\\FlowSocial.Application.csproj|solutionrelative:flowsocial.application\\services\\implement\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9CAC20-9409-426D-98D3-2E08414331A6}|FlowSocial.Infrastructure\\FlowSocial.Infrastructure.csproj|D:\\web .net\\projects\\FlowSocialAPI\\flowsocial.infrastructure\\repository\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9CAC20-9409-426D-98D3-2E08414331A6}|FlowSocial.Infrastructure\\FlowSocial.Infrastructure.csproj|solutionrelative:flowsocial.infrastructure\\repository\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD92317-C2EE-4887-94A5-081F689B6825}|FlowSocial.API\\FlowSocial.API.csproj|D:\\web .net\\projects\\FlowSocialAPI\\flowsocial.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD92317-C2EE-4887-94A5-081F689B6825}|FlowSocial.API\\FlowSocial.API.csproj|solutionrelative:flowsocial.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD92317-C2EE-4887-94A5-081F689B6825}|FlowSocial.API\\FlowSocial.API.csproj|D:\\web .net\\projects\\FlowSocialAPI\\flowsocial.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD92317-C2EE-4887-94A5-081F689B6825}|FlowSocial.API\\FlowSocial.API.csproj|solutionrelative:flowsocial.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9CAC20-9409-426D-98D3-2E08414331A6}|FlowSocial.Infrastructure\\FlowSocial.Infrastructure.csproj|D:\\web .net\\projects\\FlowSocialAPI\\flowsocial.infrastructure\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9CAC20-9409-426D-98D3-2E08414331A6}|FlowSocial.Infrastructure\\FlowSocial.Infrastructure.csproj|solutionrelative:flowsocial.infrastructure\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3A85BB-ACE9-4541-A0CF-EDF78C4C62B9}|FlowSocial.Application\\FlowSocial.Application.csproj|D:\\web .net\\projects\\FlowSocialAPI\\flowsocial.application\\contract\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3A85BB-ACE9-4541-A0CF-EDF78C4C62B9}|FlowSocial.Application\\FlowSocial.Application.csproj|solutionrelative:flowsocial.application\\contract\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\web .net\\projects\\FlowSocialAPI\\FlowSocial.Application\\Services\\Implement\\PostService.cs",
+              "RelativeDocumentMoniker": "FlowSocial.Application\\Services\\Implement\\PostService.cs",
+              "ToolTip": "D:\\web .net\\projects\\FlowSocialAPI\\FlowSocial.Application\\Services\\Implement\\PostService.cs",
+              "RelativeToolTip": "FlowSocial.Application\\Services\\Implement\\PostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:14:36.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "D:\\web .net\\projects\\FlowSocialAPI\\FlowSocial.Infrastructure\\Repository\\PostRepository.cs",
+              "RelativeDocumentMoniker": "FlowSocial.Infrastructure\\Repository\\PostRepository.cs",
+              "ToolTip": "D:\\web .net\\projects\\FlowSocialAPI\\FlowSocial.Infrastructure\\Repository\\PostRepository.cs",
+              "RelativeToolTip": "FlowSocial.Infrastructure\\Repository\\PostRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:11:20.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\web .net\\projects\\FlowSocialAPI\\FlowSocial.API\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "FlowSocial.API\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\web .net\\projects\\FlowSocialAPI\\FlowSocial.API\\Controllers\\PostController.cs",
+              "RelativeToolTip": "FlowSocial.API\\Controllers\\PostController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:11:02.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\web .net\\projects\\FlowSocialAPI\\FlowSocial.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FlowSocial.API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\web .net\\projects\\FlowSocialAPI\\FlowSocial.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FlowSocial.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswGQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:23:32.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\web .net\\projects\\FlowSocialAPI\\FlowSocial.Application\\Contract\\IEmailService.cs",
+              "RelativeDocumentMoniker": "FlowSocial.Application\\Contract\\IEmailService.cs",
+              "ToolTip": "D:\\web .net\\projects\\FlowSocialAPI\\FlowSocial.Application\\Contract\\IEmailService.cs",
+              "RelativeToolTip": "FlowSocial.Application\\Contract\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:38:23.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\web .net\\projects\\FlowSocialAPI\\FlowSocial.Infrastructure\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "FlowSocial.Infrastructure\\Repository\\AccountRepository.cs",
+              "ToolTip": "D:\\web .net\\projects\\FlowSocialAPI\\FlowSocial.Infrastructure\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "FlowSocial.Infrastructure\\Repository\\AccountRepository.cs",
+              "ViewState": "AQIAAK4BAAAAAAAAAAA6wNkBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:29:28.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
